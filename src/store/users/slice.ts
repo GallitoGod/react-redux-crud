@@ -3,15 +3,15 @@ import { type PayloadAction, createSlice } from "@reduxjs/toolkit";
 const DEFAULT__STATE = [
 	{
 		id: "1",
-		name: "Yazman Rodrigez",
-		email: "yazmanito@gmail.com",
-		github: "yazmanito",
+		name: "Gallito God",
+		email: "gallopabloj@gmail.com",
+		github: "GallitoGod",
 	},
 	{
 		id: "2",
-		name: "Leonardo",
-		email: "leo@gmail.com",
-		github: "leo",
+		name: "TotoCapuGod",
+		email: "toto@gmail.com",
+		github: "lautarobsk",
 	},
 	{
 		id: "3",
